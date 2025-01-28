@@ -1,6 +1,6 @@
 provider "azurerm" {
   features {}
-
+# test change ssh permit
   # Specify the subscription ID
   subscription_id = "ef17a603-a390-49bd-946c-cc18aa67f388"
 
